@@ -27,10 +27,10 @@
 
         <meta-data
             android:name="com.google.android.awareness.API_KEY"
-            android:value="AIzaSyCPSsaUh5B4ejQTT-NMa5grAL_OUGZ_slw" />
+            android:value="AIzaSyAZ4789J6zhdIgzC6GSjOcPabffFFDuC_Y" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCPSsaUh5B4ejQTT-NMa5grAL_OUGZ_slw" />
+            android:value="AIzaSyAZ4789J6zhdIgzC6GSjOcPabffFFDuC_Y" />
     </application>
 
 </manifest>
