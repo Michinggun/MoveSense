@@ -1,6 +1,0 @@
-[submodule "TimeSense"]
-	path = TimeSense
-	url = https://github.com/archansel/TimeSense
-[submodule "PikoDove"]
-	path = PikoDove
-	url = https://github.com/zavyra/PikoDove
